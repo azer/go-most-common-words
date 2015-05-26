@@ -1,4 +1,4 @@
-package MostCommonWords
+package mostCommonWords
 
 var Dict = map[string]bool{
 	"the":     true,
