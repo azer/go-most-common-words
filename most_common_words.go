@@ -108,4 +108,7 @@ var Dict = map[string]bool{
 	"very":    true,
 	"every":   true,
 	"many":    true,
+	"is":      true,
+	"am":      true,
+	"got":     true,
 }
