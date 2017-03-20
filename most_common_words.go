@@ -111,4 +111,12 @@ var Dict = map[string]bool{
 	"is":      true,
 	"am":      true,
 	"got":     true,
+	"are":     true,
+	"more":    true,
+	"online":  true,
+	"best":    true,
+	"why":     true,
+	"while":   true,
+	"without": true,
+	"try":     true,
 }
