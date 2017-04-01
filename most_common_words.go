@@ -172,4 +172,8 @@ var Dict = map[string]bool{
 	"want":       true,
 	"wants":      true,
 	"ever":       true,
+	"hard":       true,
+	"hardest":    true,
+	"don":        true,
+	"lot":        true,
 }
